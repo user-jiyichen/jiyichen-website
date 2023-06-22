@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Classic
-  theme_night: Classic
-  font: Classic
-  font_size: M
+  theme_day: resume
+  theme_night: resume
+  font: resume
+  font_size: L
 
 # SEO
 
