@@ -39,6 +39,6 @@ Welcome to my website! I﻿'m pursuing an M.S. in Statistics at the University o
 
 I﻿'m broadly interested in Bayesian and Computational Statistics, Machine Learning, and their applications in Finance. Currently, I'm working with [Prof. Dacheng Xiu](https://dachxiu.chicagobooth.edu/) and [Prof. Per Mykland](https://galton.uchicago.edu/~mykland/) on projects leveraging intraday high-frequency financial data and ML.
 
-During my undergrad at UofT, I was fortunate to be advised by [Prof. Radu Craiu](https://utstat.toronto.edu/craiu/) and [Prof. Scott Schwartz](https://www.linkedin.com/in/scott-schwartz-phd-b2527212a/?originalSubdomain=se) with whom I conducted research in Approximate Bayesian Computation(ABC) and Bayesian Deep Learning(BDL), respectively.
+During my undergrad at UofT, I was fortunate to be advised by [Prof. Radu Craiu](https://utstat.toronto.edu/craiu/) and [Prof. Scott Schwartz](https://www.linkedin.com/in/scott-schwartz-phd-b2527212a/?originalSubdomain=se) with whom I worked on topics in Approximate Bayesian Computation(ABC) and Bayesian Deep Learning(BDL), respectively. 
 
 {style="text-align: justify;"}
