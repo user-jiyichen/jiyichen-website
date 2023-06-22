@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: resume
-  theme_night: resume
-  font: my_font_set
+  theme_day: classic
+  theme_night: classic
+  font: classic # my_font_set
   font_size: L
 
 # SEO
