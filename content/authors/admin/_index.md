@@ -20,13 +20,13 @@ organizations:
     url: https://www.uchicago.edu/en
 education:
   courses:
-    - course: MSc in Statistics
+    - course: M.S. in Statistics
       institution: University of Chicago
       year: 2024
-    - course: BSc in Statistics
+    - course: B.S. in Statistics
       institution: University of Toronto
       year: 2022
-    - course: BSc in Financial Mathematics
+    - course: B.S. in Financial Mathematics
       year: 2022
       institution: University of Toronto
 superuser: true
