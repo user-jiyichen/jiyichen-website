@@ -5,7 +5,9 @@ avatar_filename: avatar.jpg
 bio: Crescat scientia vita excolatur
 interests:
   - Approximate Bayesian Inference
+  - Probablistic Modeling
   - Machine Learning in Finance
+  - Financial Econometrics
 social:
   - icon: linkedin
     icon_pack: fab
