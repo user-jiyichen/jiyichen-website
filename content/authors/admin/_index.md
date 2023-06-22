@@ -37,7 +37,7 @@ highlight_name: true
 first_name: Alice
 email: jiyichen@uchicago.edu
 ---
-Welcome to my website! I﻿'m pursuing an M.S. in Statistics at the University of Chicago. Prior to my graduate studies, I received my B.S. in Statistics and Financial Mathematics from the University of Toronto. 
+Welcome to my website! I﻿'m a second-year master's student in Statistics at the University of Chicago. Prior to my graduate studies, I received my B.S. in Statistics and Financial Mathematics from the University of Toronto.  
 
 I﻿'m broadly interested in Bayesian and Computational Statistics, Machine Learning, and their applications in Finance. 
 
