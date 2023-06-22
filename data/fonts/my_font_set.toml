@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Lato:400,00|Lora"
+google_fonts = "Lato:700|Lora"
 
 # Font families
 heading_font = "Lato"
