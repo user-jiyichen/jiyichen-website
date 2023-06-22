@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Lora"
+google_fonts = "Lato:400,00|Lora"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Lato"
 body_font = "Lora"
 nav_font = "Lora"
 mono_font = "Lora"
