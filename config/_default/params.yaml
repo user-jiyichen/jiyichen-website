@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: resume
-  theme_night: resume
+  theme_day: minimal
+  theme_night: minimal
   font: my_font_set
   font_size: L
 
